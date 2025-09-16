@@ -9,7 +9,7 @@ Incluye una API para gestionar apuestas, resultados y flujo del juego, además d
 - Gestión de ruletas y apuestas.
 - Registro de jugadas y resultados.
 - Integración con base de datos mediante Entity Framework Core.
-- 
+
 ##  Requisitos previos
 
 Antes de ejecutar el proyecto asegúrate de tener instalado:
