@@ -17,7 +17,7 @@ Antes de ejecutar el proyecto asegúrate de tener instalado:
 - [Visual Studio 2022] con el SDK de **.NET 8**  
 - [SQL Server]
 - [Git]
-- 
+
 ## ⚙️ Cómo ejecutar el proyecto
 
 1. **Clonar el repositorio**
